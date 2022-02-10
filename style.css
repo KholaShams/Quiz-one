@@ -1,0 +1,68 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#carouselExampleCaptions img{
+    height:40rem;
+
+}
+
+.logo{
+    margin-top: 5px;
+    color: blueviolet;
+    font-size: 35px;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+
+.tiles{
+    margin: 5px;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.services h3{
+    color:grey;
+}
+.services{
+    background-color: azure;
+}
+.Teams h3{
+    color: grey;
+}
+
+
+.Testimonials{
+    background-color: azure;   
+}
+.Testimonials h3{
+    color:grey;
+}
+
+.stars {
+    display: flex;
+    color:gold;
+}
+.sponsors{
+     margin: 5px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.spons h3{
+    color: grey;
+}
+.cont{
+    margin-left: 25%;
+    width: 50%;
+    justify-content: space-evenly
+}
+.contact h3{
+    color: grey;
+    margin-left: 0px;
+}
+footer{
+    display:flex ;
+}
